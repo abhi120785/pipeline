@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/abhi120785/devops/_apis/build/status/abhi120785.pipeline?branchName=master)](https://dev.azure.com/abhi120785/devops/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
